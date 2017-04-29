@@ -1,7 +1,7 @@
 # Commence ici
  
  _Tu découvres le Biome ? Tu peux te présenter dans [le groupe Facebook](https://www.facebook.com/groups/BioMakers/), les Biomers t'accueilleront et pourront t'orienter._
- Besoin d'aide pour GitHub, pour éditer en MarkDown, pour un projet, etc... ? Un ptit message dans le Slack et un Biomer arrivera à la rescousse ! Envoie-nous ton mail à --------@---- pour que l'on t'ajoute sur le Slack.
+ Besoin d'aide pour GitHub, pour éditer en MarkDown, pour un projet, etc... ? Un ptit message dans le Slack et un Biomer arrivera à la rescousse ! Envoie-nous ton mail à lebiome.hacklab@protonmail.com pour que l'on t'ajoute sur le Slack.
 
  > [lebiome.github.io](lebiome.github.io) te permet d'accèder aux ressources de la communauté !
 
